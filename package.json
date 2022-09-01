@@ -2,5 +2,9 @@
   "devDependencies": {
     "chai": "^4.3.6",
     "mocha": "^10.0.0"
+  },
+  "dependencies": {
+    "bomstrip": "^0.1.4",
+    "strip-bom": "^5.0.0"
   }
 }
