@@ -8,6 +8,6 @@ const filme = {
 exibirPropriedades(filme);
 function exibirPropriedades(obj) {
     for (prop in obj)
-if (typeof prp === 'string')
-console.log(prp, obj [prop])
+if (typeof obj  [prop] === 'string')
+console.log(prop, obj [prop])
 }
