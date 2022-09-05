@@ -65,6 +65,7 @@ Esse projeto pode ter contribuições, desde que sejam pertinentes ao processo d
 
 ## Autores
 Fernanda Aparecida de Toledo
+Obs: Alguns colegas me ajudaram.
 
 ## License
 
@@ -76,5 +77,5 @@ MIT-license https://rem.mit-license.org/
 * GitHub 
 * Mit license
 * https://www.youtube.com/watch?v=TsaLQAetPLU&t=757s
-* 
+* Flaticon - ícones 
 
