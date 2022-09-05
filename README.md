@@ -1,6 +1,6 @@
 # LogicalForest_Fernanda_Toledo_Compass
+
 LogicalForest Sprint 4 - Estágio Compass UOl
----
 
 
 Aqui vai uma breve descrição do projeto
@@ -36,10 +36,10 @@ npm install cypress
 
 ## Execução dos testes
 
-Explicação de como executar os testes automatizados
+Explicação de como executar os testes de mocha e chai
 
 ```
-npm run cy:test
+npm test
 ```
 
 ### Break down into end to end tests
@@ -55,16 +55,16 @@ Aqui pode ser informada uma pasta para acesso dos reports ou algum comando neces
 Informar aqui como realizar os PR's para atualização do projeto:
 
 ```
-git checkout -b "nome_da_branch"
+git staus
 git commit -m "mensagem do commit"
-git push origin nome_da_branch:nome_da_branch
+git push
+git pull
 ```
 
 ## Técnologias utilizadas
 Aqui são listadas as técnologias utilizadas no projeto
 
-* [Cypress](https://www.cypress.io/) - The test framework used
-* [Cucumber](https://cucumber.io/) - BDD + geração de relatório de teste
+*
 
 ## Contribuição
 
@@ -74,14 +74,14 @@ Nesta sessão são descritas as políticas para novas contribuições e os valor
 
 * **Autor Aqui** - *Entrega inicial* - [Link para a raiz do projeto no git](https://github.com/)
 
-Importante listar os  [contribuintes](https://github.com/seu/projeto/contributors) que participaram deste projeto
+
 
 ## License
 
-Aqui devem vir as informações de licenciamento do projeto
+
 
 ## Créditos
 
 * Agradecimento as pessoas que apoiaram no projeto
 * Sites utilizados como referência
-* etc
+
