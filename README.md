@@ -1,21 +1,24 @@
+![image](https://user-images.githubusercontent.com/93841326/188464285-0b003daf-8a78-478d-88a7-4b0834486e50.png)
 # LogicalForest_Fernanda_Toledo_Compass
 
 LogicalForest Sprint 4 - Estágio Compass UOl
 
 
-Aqui vai uma breve descrição do projeto
+Esse projeto foi criado para maior apredizado em meu estágio.
 
 ## Apresentação
 
-Essas instruções irão auxiliar a obtenção de uma cópia do projeto em sua máquina local para desenvolvimento para desenvolvimento e testes.
+Aqui nesse projeto foi trabalhado atividades práticas para um maior conhecimento das ferramentas e práticas de programação.
 
 ### Pré requisitos
 
-Aqui são listados os pré requisitos do projeto, assim como os comandos e links para a instalação dos mesmos
+Os requistos foram fazer mini projetos e utilizar os recursos e ferramentas necessárias para poder aprender mais sobre as tecnologias de Front-End.
 
 ```
-compatível com versão x do sistema operacional y
-versão x do node deve estar instalada
+sistema operacional Windows 
+🆚 Code
+node.js
+GitHub 
 ```
 
 ### Instalação
@@ -28,12 +31,6 @@ Instalar os node modules
 npm install
 ```
 
-Instalar o cypress
-
-```
-npm install cypress
-```
-
 ## Execução dos testes
 
 Explicação de como executar os testes de mocha e chai
@@ -42,17 +39,9 @@ Explicação de como executar os testes de mocha e chai
 npm test
 ```
 
-### Break down into end to end tests
-
-Explicação sobre os tipos de testes realizados e como consultar os reports gerados
-
-```
-Aqui pode ser informada uma pasta para acesso dos reports ou algum comando necessário
-```
-
 ## Deployment
 
-Informar aqui como realizar os PR's para atualização do projeto:
+Processos para atualização do projeto:
 
 ```
 git staus
@@ -62,26 +51,30 @@ git pull
 ```
 
 ## Técnologias utilizadas
-Aqui são listadas as técnologias utilizadas no projeto
 
-*
+* GitHub
+* JavaScript
+* Html
+* KOANS
+* Mocha e chai
+* Node js
 
 ## Contribuição
 
-Nesta sessão são descritas as políticas para novas contribuições e os valores analisados para aceitação das mesmas
+Esse projeto pode ter contribuições, desde que sejam pertinentes ao processo de maior desenvolvimento e de aprendizagem para quem precisar.
 
 ## Autores
-
-* **Autor Aqui** - *Entrega inicial* - [Link para a raiz do projeto no git](https://github.com/)
-
-
+Fernanda Aparecida de Toledo
 
 ## License
 
-
+MIT-license https://rem.mit-license.org/
 
 ## Créditos
 
-* Agradecimento as pessoas que apoiaram no projeto
-* Sites utilizados como referência
+* Agradeço aos meus colegas de estágio e a equipe que nos acompanha nesse processo de desenvolvimento profissional.
+* GitHub 
+* Mit license
+* https://www.youtube.com/watch?v=TsaLQAetPLU&t=757s
+* 
 
